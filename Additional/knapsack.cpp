@@ -110,7 +110,7 @@ void sub5(){
 }
 
 int main(){
-    setIO("t");
+    setIO("");
     cin>>s>>n;
     k.resize(n+1,0);
     w.resize(n+1,0);
